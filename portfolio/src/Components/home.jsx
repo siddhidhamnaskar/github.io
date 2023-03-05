@@ -1,4 +1,4 @@
-import Photo from "../media/siddhiImage.jpeg";
+// import Photo from "../media/siddhiImage.jpeg";
 import github from "../media/github.png";
 
 export default function Home(){
