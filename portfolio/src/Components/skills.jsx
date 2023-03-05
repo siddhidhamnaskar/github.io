@@ -18,7 +18,22 @@ export default function Skills(){
        </div>
     
  </div>
+ <div class="github" style={{marginTop:"-100px"}}>
+ <h1>MY STATISTICS</h1>
+ <div id="Github">
+    
+ <img class="github_stats" src="https://github-readme-stats.vercel.app/api?username=siddhidhamnaskar&theme=white&hide_border=true&include_all_commits=false&count_private=false"/>
+ 
+  <img class="github_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhidhamnaskar&theme=white&hide_border=true"/>
+   
+   <img style={{margin:"auto", display:"flex",  alignContent:"center" ,marginTop:"-30px"}} src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhidhamnaskar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="" />
 
+
+ </div>
+ 
+ </div>
+
+ 
 
  </>
 
