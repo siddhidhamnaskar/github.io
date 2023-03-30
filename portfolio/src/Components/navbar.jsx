@@ -18,7 +18,7 @@ export default function Navbar(){
            <a href="#contacts">CONTACTS</a>
             
            <div>
-            <a class="resume" href="pdf/Siddhi_Dhamnaskar_Resume.pdf" target="_blank" rel="noreferrer">Resume<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="DownloadIcon"><path d="M5 20h14v-2H5v2zM19 9h-4V3H9v6H5l7 7 7-7z"></path></svg></a>
+            <a class="resume" download href="pdf/Siddhi_Dhamnaskar_Resume.pdf" target="_blank" rel="noreferrer">Resume<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="DownloadIcon"><path d="M5 20h14v-2H5v2zM19 9h-4V3H9v6H5l7 7 7-7z"></path></svg></a>
            </div>
        
             
