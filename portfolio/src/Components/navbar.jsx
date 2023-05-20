@@ -19,7 +19,7 @@ export default function Navbar(){
            <a href="#contacts">CONTACTS</a>
             
            <div>
-            <a class="resume" download href="pdf/Siddhi_Resume.pdf" >Resume<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="DownloadIcon"><path d="M5 20h14v-2H5v2zM19 9h-4V3H9v6H5l7 7 7-7z"></path></svg></a>
+            <a class="resume" download href="https://drive.google.com/file/d/1ftv39LeqZwGB-Ee6f5ZGs6JJjz7ZuNmx/view" >Resume<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="DownloadIcon"><path d="M5 20h14v-2H5v2zM19 9h-4V3H9v6H5l7 7 7-7z"></path></svg></a>
            </div>
           
             
